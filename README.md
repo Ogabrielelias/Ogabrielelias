@@ -8,7 +8,7 @@
 
 <picture>
 <source 
-  style='height:180px;'
+  style="height:180px;"
   srcset="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
@@ -20,8 +20,8 @@
 </picture>
 <picture>
 <source 
-  style='height:180px;'
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabrielelias&layout=compact"
+  style="height:180px;"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabrielelias&layout=compact&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -30,3 +30,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true" />
 </picture>
+
