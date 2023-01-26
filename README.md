@@ -17,3 +17,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true" />
 </picture>
+
+<a href="https://github.com/Ogabrielelias/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ogabrielelias&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Ogabrielelias/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ogabrielelias&repo=convoychat" />
+</a>
