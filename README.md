@@ -11,6 +11,7 @@
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight" />
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
   </a>
+  <img src="https://i.pinimg.com/originals/f3/b8/63/f3b8633ef36bf0b5085c5d0f6020c919.gif">
 </div>
 
 ##
@@ -23,6 +24,5 @@
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img style="height:80px" src="https://i.pinimg.com/originals/f3/b8/63/f3b8633ef36bf0b5085c5d0f6020c919.gif">
 </div>
 
