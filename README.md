@@ -6,14 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a noob dev
 
-<picture>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight" />
-</picture>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabrielelias&layout=compact&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+</div>
 
