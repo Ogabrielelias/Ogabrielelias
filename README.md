@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a noob dev
 
 <div>
-  <a href="github.com/Ogabrielelias">
+  <a href="https://www.github.com/Ogabrielelias">
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight" />
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
   </a>
