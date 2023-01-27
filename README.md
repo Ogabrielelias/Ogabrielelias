@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m currently studying and making a projects
+- 🔭 I’m currently studying and making a project
 - 🌱 I’m currently learning React and Material Ui
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ogabrielelias/"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 😄 Pronouns: he/him
