@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a noob dev
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight" />
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </div>
 
