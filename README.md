@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Design patterns, clean code and tests
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ogabrielelias/"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<div style="display:inline-block;">
+<div style="display:flex; flex-direction:row;">
   <a href="https://www.github.com/Ogabrielelias">
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=Ogabrielelias&show_icons=true&theme=tokyonight&hide_rank=true" />
     <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabrielelias&layout=compact&theme=tokyonight" />
