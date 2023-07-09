@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m currently studying and making a project
+- 🔭 I’m currently studying and coding
 - 🌱 I’m currently learning Design patterns and clean code
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ogabrielelias/"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
