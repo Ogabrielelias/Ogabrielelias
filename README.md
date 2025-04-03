@@ -1,7 +1,8 @@
 ### Hello World 👋
 
-- 🔭 I’m currently studying and coding
-- 🌱 I’m currently learning Design patterns, clean code and tests
+- 🔭 Currently studying, working, and coding every day
+- 🌱 Web Developer at EVCOMX, building innovative solutions
+- 💡 Passionate about technology, problem-solving, and personal projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ogabrielelias/"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://www.codewars.com/users/Ogabrielelias/badges/large"/>
 <div style="display:flex; flex-direction:row;">
